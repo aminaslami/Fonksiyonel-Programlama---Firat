@@ -1,3 +1,3 @@
 Fırat Üniversitesi - Fonksiyonel Programlama Dersi
 
-Ders PDF'ları ve 
+Ders PDF'ları ve Alıştırma
