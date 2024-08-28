@@ -1,1 +1,1 @@
-Fırat Üniversitesi - 
+Fırat Üniversitesi - Fonksiyonel Programlama
